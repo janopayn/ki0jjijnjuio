@@ -5,4 +5,5 @@
 Чтобы создать папку index.html,
 вам нужно навести мишку на название папки
 и там вы увидите New File и нажмите на неё.
-![f9a186c05e5d5b351c5f3d0891bc9f13](https://github.com/janopayn/ki0jjijnjuio/assets/171019533/fc3f7c89-e37f-4015-8897-57e22c3a79c1)
+
+![f9a186c05e5d5b351c5f3d0891bc9f13](https://github.com/janopayn/ki0jjijnjuio/assets/171019533/017c4df0-d599-4ddc-9d25-1c8d7c35c89b)
