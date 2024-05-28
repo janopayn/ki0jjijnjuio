@@ -9,20 +9,22 @@
 
 ![f9a186c05e5d5b351c5f3d0891bc9f13](https://github.com/janopayn/ki0jjijnjuio/assets/171019533/017c4df0-d599-4ddc-9d25-1c8d7c35c89b)
 
+Примерный код!
 
 
 
 
 
 
+```
+
+<*`print('Hello, World!')`*>
+
+```
 
 
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<<<<<<< HEAD
-    <title>AAA</title>
-</head>
-<body>
+
+
+
+
+Этот код выводит текст на английском Hello, World, что в переводе означает привет мир.
